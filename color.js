@@ -1,5 +1,5 @@
 //Declare the Color Object with our new keyword below here.
-const Color = new object ();
+const Color = new Object();
 
 /*
 ** rgb is an array that hold the color values.
@@ -53,7 +53,8 @@ return bright;
 //complement
 function complement(){
   var comp = [];
-  for(comp=0; comp<4; comp++){
-    return comp;
+  for(c=0; c<3; c++){
+    comp.push;
   }
+    return comp;
 }
